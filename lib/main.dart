@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
             height: 100,
             width: 100,
             child: Text(
-              'ghbdtn',
+              'Text',
             ),
           ),
         ),
