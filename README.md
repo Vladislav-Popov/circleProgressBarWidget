@@ -2,11 +2,11 @@
 
 Flutter Custom Paint
 
-      required parametrs
-      - percent,
-      - feelColor,
-      - freeColor,
-      - lineColor,
+      required parametrs:
+      - percent;
+      - feelColor;
+      - freeColor;
+      - lineColor;
       - lineWidth.
 
-![Simulator Screen Shot - iPhone 13 - 2022-02-06 at 17 48 07](https://user-images.githubusercontent.com/57004611/152686404-cb40c0d9-faa4-4184-a439-748b6c28919e.png)
+<img width="469" alt="Снимок экрана 2022-02-06 в 17 51 30" src="https://user-images.githubusercontent.com/57004611/152686597-9950d030-760d-49a7-8cc7-8b8b98b506a4.png">
