@@ -9,4 +9,4 @@ Flutter Custom Paint
       - lineColor;
       - lineWidth.
 
-<img width="469" alt="Снимок экрана 2022-02-06 в 17 51 30" src="https://user-images.githubusercontent.com/57004611/152686597-9950d030-760d-49a7-8cc7-8b8b98b506a4.png">
+<img width="404" alt="Снимок экрана 2022-02-06 в 17 53 20" src="https://user-images.githubusercontent.com/57004611/152686647-2376de62-55c9-4661-a7bc-8924294c38b6.png">
