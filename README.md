@@ -2,15 +2,11 @@
 
 Flutter Custom Paint
 
-## Getting Started
+      required parametrs
+      - percent,
+      - feelColor,
+      - freeColor,
+      - lineColor,
+      - lineWidth.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 - 2022-02-06 at 17 48 07](https://user-images.githubusercontent.com/57004611/152686404-cb40c0d9-faa4-4184-a439-748b6c28919e.png)
